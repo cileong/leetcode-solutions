@@ -13,3 +13,4 @@ Solutions to LeetCode problems
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Python](algorithms/python/longest_common_prefix.py)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](algorithms/python/valid_parentheses.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](algorithms/python/remove_duplicates_from_sorted_array.py)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](algorithms/python/remove_element.py)|Easy|
