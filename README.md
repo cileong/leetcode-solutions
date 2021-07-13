@@ -2,6 +2,7 @@
 Solutions to LeetCode problems
 
 * [Algorithms](#algorithms)
+* [Shell](#shell)
 
 
 ### Algorithms
