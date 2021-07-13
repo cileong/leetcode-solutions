@@ -3,6 +3,7 @@ Solutions to LeetCode problems
 
 * [Algorithms](#algorithms)
 
+
 ### Algorithms
 
 | # | Title | Solution | Difficulty |
@@ -16,3 +17,10 @@ Solutions to LeetCode problems
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](algorithms/python/merge_two_sorted_lists.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](algorithms/python/remove_duplicates_from_sorted_array.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](algorithms/python/remove_element.py)|Easy|
+
+
+### Shell
+
+| # | Title | Solution | Difficulty |
+|---|-------|----------|------------|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line)|[Bash](shell/tenthLine.sh)|Easy|
